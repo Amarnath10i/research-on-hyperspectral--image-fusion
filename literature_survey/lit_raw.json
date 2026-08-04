@@ -1,0 +1,1343 @@
+[
+ {
+  "doi": "10.1109/access.2026.3679369",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "A Differential Memory Attention Mamba for Spatial-Spectral Representation Learning Toward Hyperspectral Image Classification",
+  "volume": "14",
+  "pages": "54380-54394",
+  "authors": "Butt, Muhammad Hassaan Farooq; Manzoor, Majid; Butt, Muhammad Adnan Farooq; Aadil, Farhan; Chohan, Rehan Tariq"
+ },
+ {
+  "doi": "10.1109/access.2026.3667149",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "A Multi-Scale Hybrid Attention Residual Network for Super-Resolution Image Reconstruction",
+  "volume": "14",
+  "pages": "33847-33857",
+  "authors": "Li, Yachao; Li, Wei"
+ },
+ {
+  "doi": "10.1109/access.2026.3694682",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "Benchmarking Microscopy Super-Resolution (×4) Deep Learning Models With Point Spread Degradation",
+  "volume": "14",
+  "pages": "82081-82092",
+  "authors": "VU, Dang Thanh; Kim, Chihoon; Anh, Le Hoang; Kim, Sangyun; Yu, Gwanghyun"
+ },
+ {
+  "doi": "10.1109/access.2026.3652604",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "Branch-and-Bound Compressive Learning and Reconstruction of Hyperspectral Data With Deep Tucker Decomposition Using Spatial–Spectral Learning Network",
+  "volume": "14",
+  "pages": "7164-7184",
+  "authors": "J, Aravinth; R, Anand; Rajendran, Sankaran"
+ },
+ {
+  "doi": "10.1109/access.2026.3718344",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "Hybrid Hyperspectral Unmixing Using Fusion Mamba And Performer -Attention",
+  "volume": "",
+  "pages": "1-1",
+  "authors": "Sreejam, M; Agilandeewari, L"
+ },
+ {
+  "doi": "10.1109/access.2026.3661558",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "Hyperspectral and Multispectral Image Fusion via Neural Tensor Decomposition With Factor Alignment",
+  "volume": "14",
+  "pages": "20756-20774",
+  "authors": "Jiang, Huidong; Naganuma, Kazuki; Tao, Zerui; Xiao, Jin-Liang; Zhao, Qibin; Ono, Shunsuke"
+ },
+ {
+  "doi": "10.1109/access.2026.3714361",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "Low-Rank Tensor Ring Alternating Least Squares With Tikhonov Regularization for Image Completion",
+  "volume": "14",
+  "pages": "110158-110170",
+  "authors": "Chi, Jung-Chun; Chen, Chiao-En; Huang, Yuan-Hao"
+ },
+ {
+  "doi": "10.1109/access.2026.3716958",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "PLGNet: A Novel Point-Local-Global Multi-level Collaborative Fusion Method for Hyperspectral and Multispectral Remote Sensing Images",
+  "volume": "",
+  "pages": "1-1",
+  "authors": "Yang, Minhan; Liu, Zinan; Zhan, Guoqi; Zhong, Qin"
+ },
+ {
+  "doi": "10.1109/access.2026.3655814",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "S2CaT: Spatial–Spectral-Based CNN and Transformer Network for Hyperspectral Image Classification",
+  "volume": "14",
+  "pages": "17434-17453",
+  "authors": "Wan, Guanliang; Liu, Danqing; Liu, Yunxin; Yang, Tengyue; Guo, Yanhui"
+ },
+ {
+  "doi": "10.1109/access.2026.3678076",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "Spatial-Spectral Synergy Learning in the Frequency Domain for Hyperspectral Image Super-Resolution",
+  "volume": "14",
+  "pages": "51211-51224",
+  "authors": "Duan, Yikai; Hu, Jianwen; Xie, Kaixiang"
+ },
+ {
+  "doi": "10.1109/access.2026.3670762",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "Structure-Preserved Conditional Diffusion for Hyperspectral LiDAR Fusion via Cross-Modal Alignment",
+  "volume": "14",
+  "pages": "48231-48247",
+  "authors": "Zhou, Zhengyu; Feng, Erning"
+ },
+ {
+  "doi": "10.1109/access.2026.3704440",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "Subpixel-Aware Hyperspectral Image Classification Using ETAP-Guided Autoencoder and Vision Transformer Fusion",
+  "volume": "14",
+  "pages": "95439-95453",
+  "authors": "Bhardwaj, Kaushal; Jain, Vikas Kumar; Dudi, Kunal; Chaurasia, Kuldeep; Sharma, Harish"
+ },
+ {
+  "doi": "10.1109/access.2026.3713323",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "TETNet: A Target-Enhanced Triple-Branch Network With Spectral–Spatial Attention for Hyperspectral Image Classification",
+  "volume": "14",
+  "pages": "114715-114732",
+  "authors": "Chen, Shih-Yu; Kuo, Tzu-Hsien; Kang, Li-Wei; Cheng, I-Hsuan; Huang, Jyun-Wei; Hung, Wei-Chien"
+ },
+ {
+  "doi": "10.1109/access.2026.3679196",
+  "year": 2026,
+  "journal": "IEEE Access",
+  "title": "Variational Model-Guided Three-Dimensional Recurrent Transformer for Hyperspectral and Multispectral Image Fusion",
+  "volume": "",
+  "pages": "1-1",
+  "authors": "Khader, Abdolraheem; Yang, Jingxiang; Ahmed, Ali; Fang, Jian; Xiao, Liang"
+ },
+ {
+  "doi": "10.1109/lgrs.2025.3646858",
+  "year": 2026,
+  "journal": "IEEE Geoscience and Remote Sensing Letters",
+  "title": "Dual-Attention-Enhanced Convolutional-Graph Fusion Network for Hyperspectral Image Classification",
+  "volume": "23",
+  "pages": "1-5",
+  "authors": "Ouyang, Ning; Zeng, Juntian; Lin, Leping"
+ },
+ {
+  "doi": "10.1109/lgrs.2026.3679458",
+  "year": 2026,
+  "journal": "IEEE Geoscience and Remote Sensing Letters",
+  "title": "NPFNet: Nonlocal Pixel Clustering and Fourier Enhancement Network for Multispectral and Hyperspectral Image Fusion",
+  "volume": "23",
+  "pages": "5504905-5504905",
+  "authors": "Tian, Yulei; Zhang, Quan; Li, Jun; Gui, Jialin; Peng, Yuanxi"
+ },
+ {
+  "doi": "10.1109/lgrs.2026.3663937",
+  "year": 2026,
+  "journal": "IEEE Geoscience and Remote Sensing Letters",
+  "title": "PMFNet: A PCA-Driven Mixture-of-Expert Fusion Network for Hyperspectral Pansharpening",
+  "volume": "23",
+  "pages": "1-5",
+  "authors": "Yang, Yong; Liu, Xuan; Huang, Shuying; Wang, Xiaozheng; Lu, Jinlin"
+ },
+ {
+  "doi": "10.1109/lgrs.2026.3718463",
+  "year": 2026,
+  "journal": "IEEE Geoscience and Remote Sensing Letters",
+  "title": "SMO-Net: Unsupervised Hyperspectral Image Super-Resolution via Spectral Mapping and Overall Consistency Optimization",
+  "volume": "",
+  "pages": "1-1",
+  "authors": "Xu, Yang; Zheng, Ke; Qi, Xiaoman; Li, Jiaxin; Qi, Xiaotong"
+ },
+ {
+  "doi": "10.1109/lgrs.2026.3652369",
+  "year": 2026,
+  "journal": "IEEE Geoscience and Remote Sensing Letters",
+  "title": "Spatial-Frequency Joint Learning Mamba for Hyperspectral Image Classification",
+  "volume": "23",
+  "pages": "1-5",
+  "authors": "Meng, Zhe; Yue, Lele; Zhao, Feng"
+ },
+ {
+  "doi": "10.1109/lgrs.2026.3689855",
+  "year": 2026,
+  "journal": "IEEE Geoscience and Remote Sensing Letters",
+  "title": "Spectral Dynamic Attention Network for Hyperspectral Image Super-Resolution",
+  "volume": "23",
+  "pages": "5504005-5504005",
+  "authors": "Zhang, Tengya; Gao, Feng; Qi, Lin; Dong, Junyu; Du, Qian"
+ },
+ {
+  "doi": "10.1109/lgrs.2025.3639389",
+  "year": 2026,
+  "journal": "IEEE Geoscience and Remote Sensing Letters",
+  "title": "TCNet: Topological Consistency Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "23",
+  "pages": "1-5",
+  "authors": "Xing, Changda; Wang, Meiling; Xu, Yongchang; Wang, Cheng"
+ },
+ {
+  "doi": "10.1109/jiot.2026.3675658",
+  "year": 2026,
+  "journal": "IEEE Internet of Things Journal",
+  "title": "SafaSR: An Arbitrary-Scale Image Super-Resolution Network Based on Multidomain Feature Fusion for Enhancing Diverse IoT Vision",
+  "volume": "13",
+  "pages": "25004-25015",
+  "authors": "Fang, Jing; Yu, Yinbo; Tian, Chunwei; He, Liang; Liu, Jiajia"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3715799",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "A Deep Learning–Embedded Sparse Variational Optimization Method for Hyperspectral and Multispectral Image Fusion",
+  "volume": "",
+  "pages": "1-12",
+  "authors": "Zhang, Wei; Liu, Liu; Xu, Ting; Deng, Liang-Jian"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3679754",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "AMHF-Net: A Multispectral and Hyperspectral Image Fusion Network for Arbitrary-Band Hyperspectral Images",
+  "volume": "19",
+  "pages": "12367-12383",
+  "authors": "Wang, Shunyao; Xie, Qi; Zhao, Qian; Meng, Deyu"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3707729",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "AS2G-Transformer: An Adaptive Spatial–Spectral Guided Transformer Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "19",
+  "pages": "22403-22423",
+  "authors": "Wang, Hui; Yue, Huanru; Zhang, Zezheng; Liu, Siyuan; Zhang, Yudong; Liu, Shuaiqi"
+ },
+ {
+  "doi": "10.1109/jstars.2025.3646025",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "An Ultralightweight Multidomain Feature Extraction Network With Cross Spatial–Spectral Attention for Hyperspectral Image Classification",
+  "volume": "19",
+  "pages": "2829-2849",
+  "authors": "Wu, Qinggang; Ma, Chao; He, Mengkun; Wu, Zedong; Wu, Qinge"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3675001",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "Blind Hyperspectral–Multispectral Image Fusion Robust to Spatial Misregistration and Spectral Range Nonoverlap",
+  "volume": "19",
+  "pages": "10804-10824",
+  "authors": "Gao, Yu; Zhang, Lifu; Sun, Xueijan; Zhang, Yan; Li, Qian; Cen, Yi; Zhang, Donghui"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3678028",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "CTSNet: Cross-Modal Token Selection Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "19",
+  "pages": "16257-16270",
+  "authors": "Jia, Yi’ao; Qian, Yurong; Long, Jun; Wang, Yuanxu; Luo, Sen; Hu, Dongbin; Gong, Weijun"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3719677",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "DCRF-Net: Dual-Observation Consistency Residual Feedback Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "",
+  "pages": "1-15",
+  "authors": "Song, Peibo; Zhang, Lihua; Gao, Zhaolong; Li, Jinjiang"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3698685",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "EFSANet: Explicit Frequency Modeling and Style-Aware Alignment for Hyperspectral–Multispectral Image Fusion",
+  "volume": "19",
+  "pages": "20236-20250",
+  "authors": "Hu, Dongbin; Fan, Yingying; Ma, Yuyin; Qian, Yurong; Wang, Yuanxu; Luo, Sen; Jia, Yi’ao; Li, Xinhui; Zhang, Meng; Tereshchenko, S. N."
+ },
+ {
+  "doi": "10.1109/jstars.2025.3646066",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "Generative Data-Driven Dynamic Deep-Learning Classifier Selection for Hyperspectral Image Classification",
+  "volume": "19",
+  "pages": "3102-3122",
+  "authors": "Lu, Hongliang; Huang, Xianglin; Chen, Yutian"
+ },
+ {
+  "doi": "10.1109/jstars.2025.3639427",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "Global-Local Dual-Domain Latent Diffusion Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "19",
+  "pages": "3242-3259",
+  "authors": "Li, Gangqiang; Gao, Jinfeng; Xiao, Yuxin; Wu, Haitao; Li, Junzhi; Liu, Qiang; Zhang, Junming"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3688557",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "Hyperspectral Image Denoising and Destriping With Adaptive Learnable Subspace Coefficient Tensor Low-Rank Prior",
+  "volume": "19",
+  "pages": "15541-15557",
+  "authors": "Liu, Pengfei; Du, Yihang; Sun, Liping; Huang, Nan; Zheng, Zhizhong; Xiao, Liang"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3705424",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "Hyperspectral and Multispectral Image Fusion via Double Decomposition Network",
+  "volume": "19",
+  "pages": "21978-21990",
+  "authors": "Wang, Jiaming; Shi, Xian; Yang, Yan; Wang, Yu; Yan, Junxia; Chen, Yang; Chen, Xitong"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3693807",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "Joint Multiscale Spatial Pyramid and Frequency-Domain Learning for Hyperspectral and Multispectral Image Fusion",
+  "volume": "19",
+  "pages": "17533-17549",
+  "authors": "Wang, Wenqing; Gao, Mingze; Liu, Han"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3705438",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "KG-Mamba: A Structure-Aware and Knowledge-Guided Mamba Network for Hyperspectral Image Classification",
+  "volume": "19",
+  "pages": "21753-21768",
+  "authors": "Lei, Runmin; Zhang, Xiang; Zhou, Huizhou; Zhou, Yuchuan"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3655787",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "Low-Rank Gradient Guidance With Mutual-Guided Mamba for Hyperspectral Pansharpening",
+  "volume": "19",
+  "pages": "5948-5966",
+  "authors": "Wu, Chanyue; Wang, Dong; Mao, Hanyu; Bai, Zongwen; Li, Ying; Shang, Changjing; Shen, Qiang"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3657648",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "MD\n                    <sup>2</sup>\n                    F-Mamba: Multidirectional Depthwise Convolution and Dual-Branch Mamba Feature Fusion Networks for Hyperspectral Image Classification",
+  "volume": "19",
+  "pages": "6214-6238",
+  "authors": "Wan, Xiaoqing; Mo, Dongtao; He, Yupeng; Chen, Feng; Li, Zhize"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3697374",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "MGINR-WGAN: A Multiscale Guided Implicit Neural Representation Wasserstein GAN for Hyperspectral and Multispectral Image Fusion",
+  "volume": "19",
+  "pages": "18822-18839",
+  "authors": "Zhang, Yan; Fan, Rongbo; Duan, PeiPei; Dong, Jinfang; Lei, Zhiyong"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3653204",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "MSFE-Mamba: Multiscale Frequency-Enhanced Mamba for Hyperspectral Image Classification",
+  "volume": "19",
+  "pages": "5234-5247",
+  "authors": "Shi, Rui; Zhu, Xingyuan; Wu, Yongxiang; Gao, Hongmin; Dong, Jiaping; Wang, Gaoxu"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3657496",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "PASG-Net:Spatial-Guided Frequency Compensation Polarized Attention Fusion Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "19",
+  "pages": "5695-5709",
+  "authors": "Mou, Yan; Chen, Zheng; Li, Jinjiang"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3692909",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "S$^{3}$RNet: Sparse Spatial–Spectral Representation With Hybrid Knowledge Distillation for Efficient Multispectral and Hyperspectral Image Fusion",
+  "volume": "19",
+  "pages": "20451-20470",
+  "authors": "Hsu, Chih-Chung; Lee, Chia-Ming; Lin, Yu-Fan; Ni, Chih-Chien; Kang, Li-Wei"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3661580",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "SCIAU-Net: A Spatial-Spectral Cross-Modal Interaction ADMM Unfolding Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "19",
+  "pages": "8175-8192",
+  "authors": "Zhang, Ruiqing; Lei, Bingbing; Feng, Wei; Chai, Xue"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3651577",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "SFCFNet: A Spatial–Frequency Cross-Attention Fusion Network for Hyperspectral Image Classification",
+  "volume": "19",
+  "pages": "4994-5008",
+  "authors": "Huang, Wei; Li, JiaLu; Chen, Qiqiang; Yin, Junru; Niu, Jiqiang; Sun, Le"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3685723",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "SFVEGNet: Spatial-Frequency Vision Mamba Enhanced Edge-Gaussian Cooperative Fusion Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "19",
+  "pages": "16125-16142",
+  "authors": "Lin, Xingqi; Zhu, Chunyu; Li, Mingze; Yu, Bohao; Liu, Zinan; Li, Jiaxin"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3654346",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "SSA-Mamba: Spatial-Spectral Attentive State Space Model for Hyperspectral Image Classification",
+  "volume": "19",
+  "pages": "6403-6424",
+  "authors": "Liao, Jianshang; Wang, Liguo"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3681689",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "SSMFMamba: A Spatial-Spectral Mamba-Convolution Fusion Network for Hyperspectral Image Classification",
+  "volume": "19",
+  "pages": "14003-14017",
+  "authors": "Zhao, Ji; Peng, Tieqi; Xiao, Pu; Dong, Yuting; Luo, Hui; Xu, Xiong"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3717247",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "STG-Net: Shared Tensor Guidance Hyperspectral and Multispectral Remote Sensing Image Fusion Network under Locally Overlapping Condition",
+  "volume": "",
+  "pages": "1-15",
+  "authors": "Gao, Tong; Rao, Yipeng; Dong, Hongwei; Si, Lingyu; Sun, Yongqiang"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3682469",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "Synthetic Abundance Maps for Unsupervised Super-Resolution of Hyperspectral Remote Sensing Images",
+  "volume": "19",
+  "pages": "13507-13520",
+  "authors": "Xu, Xinxin; Gousseau, Yann; Kervazo, Christophe; Ladjal, Saïd"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3661112",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "Three-Branch Multiscale Abundance Feature Fusion Network for Hyperspectral Image Change Detection",
+  "volume": "19",
+  "pages": "7443-7455",
+  "authors": "Zhang, Zhixuan; Xu, Lina; Wu, Ke; Zhong, Junfei"
+ },
+ {
+  "doi": "10.1109/jstars.2026.3698939",
+  "year": 2026,
+  "journal": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "title": "Unsupervised Frequency-Guided Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "19",
+  "pages": "19914-19928",
+  "authors": "Li, Yan; Li, Jun; Zhang, Quan; Long, Jian; Zhu, Weilong; Wang, Dongzi; Peng, Yuanxi"
+ },
+ {
+  "doi": "10.1109/tla.2026.11613867",
+  "year": 2026,
+  "journal": "IEEE Latin America Transactions",
+  "title": "Cascade Pixel Transformer with Distance-Driven Spatial Fusion for Hyperspectral Image Classification Using Limited Training Samples",
+  "volume": "24",
+  "pages": "1045-1058",
+  "authors": "Reddy, Biri Chanakya; Subbian, Deivalakshmi"
+ },
+ {
+  "doi": "10.1109/jsen.2026.3700714",
+  "year": 2026,
+  "journal": "IEEE Sensors Journal",
+  "title": "DULRNet: A Deep Unfolding Low-Rank Network for Infrared and Visible Image Fusion",
+  "volume": "26",
+  "pages": "21508-21526",
+  "authors": "Wang, Dongming; Mou, Xingang; Huang, Ze; Zhou, Xiao"
+ },
+ {
+  "doi": "10.1109/lsp.2026.3673200",
+  "year": 2026,
+  "journal": "IEEE Signal Processing Letters",
+  "title": "A Novel Panchromatic-Guided Tensor Low-Rank Model for Multispectral Image Sharpening",
+  "volume": "33",
+  "pages": "1255-1259",
+  "authors": "Liu, Pengfei; Sun, Liping; Du, Yihang; Huang, Nan; Zheng, Zhizhong; Xiao, Liang"
+ },
+ {
+  "doi": "10.1109/lsp.2026.3684450",
+  "year": 2026,
+  "journal": "IEEE Signal Processing Letters",
+  "title": "Exploiting Continuity for Unsupervised Single Depth Map Super-Resolution",
+  "volume": "33",
+  "pages": "1876-1880",
+  "authors": "Jian, Ruobing; Zhang, Jing; Dai, Yuchao"
+ },
+ {
+  "doi": "10.1109/lsp.2026.3698753",
+  "year": 2026,
+  "journal": "IEEE Signal Processing Letters",
+  "title": "Robust Low-Tubal-Rank Tensor Sensing via Preconditioned Subgradient Descent",
+  "volume": "33",
+  "pages": "2725-2729",
+  "authors": "Chen, Ran; Huang, Linyu"
+ },
+ {
+  "doi": "10.1109/tai.2026.3695504",
+  "year": 2026,
+  "journal": "IEEE Transactions on Artificial Intelligence",
+  "title": "Linearized Tensor Low-rank Convolutional Network",
+  "volume": "",
+  "pages": "1-13",
+  "authors": "Shen, Qiangqiang; Liu, Zonglin; Wang, Hanzhang; Liang, Yongsheng; Chen, Yongyong; Wang, Shiqi"
+ },
+ {
+  "doi": "10.1109/tbc.2026.3680050",
+  "year": 2026,
+  "journal": "IEEE Transactions on Broadcasting",
+  "title": "Joint Degradation-Aware Arbitrary-Scale Super-Resolution for Variable-Rate Extreme Image Compression",
+  "volume": "",
+  "pages": "1-16",
+  "authors": "Chai, Xinning; Cheng, Zhengxue; Li, Xin; Xie, Rong; Song, Li"
+ },
+ {
+  "doi": "10.1109/tcsvt.2026.3700715",
+  "year": 2026,
+  "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+  "title": "HCDi-Fusion: Hybrid-Conditioned Diffusion Model for Cross-Resolution Multimodal Image Fusion",
+  "volume": "",
+  "pages": "1-1",
+  "authors": "Feng, Duzhong; Qiu, Chenxi; Yue, Tao; Hu, Xuemei"
+ },
+ {
+  "doi": "10.1109/tcsvt.2025.3597548",
+  "year": 2026,
+  "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+  "title": "HDiff-HIR: Hierarchically Conditional Diffusion Model for Hyperspectral Image Reconstruction",
+  "volume": "36",
+  "pages": "777-791",
+  "authors": "Luo, Fulin; Chen, Xi; Fu, Chuan; Guo, Tan; Du, Bo"
+ },
+ {
+  "doi": "10.1109/tcsvt.2025.3621300",
+  "year": 2026,
+  "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+  "title": "Learning a Self-Supervised Low-Rank Decomposition Network for Hyperspectral Image Super-Resolution",
+  "volume": "36",
+  "pages": "3964-3974",
+  "authors": "Chen, Yong; Zhou, Min; Gui, Xinfeng; Yuan, Feiwang; He, Wei; Zeng, Jinshan"
+ },
+ {
+  "doi": "10.1109/tcsvt.2025.3626779",
+  "year": 2026,
+  "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+  "title": "RWKVSR: Receptance Weighted Key-Value Network for Hyperspectral Image Super-Resolution",
+  "volume": "36",
+  "pages": "4165-4180",
+  "authors": "Yang, Xiaofei; Li, Sihuan; Cao, Weijia; Tang, Dong; Ban, Yifang; Zhou, Yicong"
+ },
+ {
+  "doi": "10.1109/tcsvt.2026.3688550",
+  "year": 2026,
+  "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+  "title": "Robust Deep Low-Rank Tensor Factorization for Hyperspectral Image Restoration",
+  "volume": "",
+  "pages": "1-1",
+  "authors": "Wu, Huijuan; Jiang, Xi; Li, Yunyi; Gui, Linqing; Xiao, Fu"
+ },
+ {
+  "doi": "10.1109/tcsvt.2026.3668923",
+  "year": 2026,
+  "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+  "title": "Shuffle Mamba: State Space Models With Random Shuffle for Multi-Modal Image Fusion",
+  "volume": "36",
+  "pages": "9448-9461",
+  "authors": "Cao, Ke; He, Xuanhua; Hu, Tao; Xie, Chengjun; Zhou, Man; Zhang, Jie"
+ },
+ {
+  "doi": "10.1109/tci.2025.3643318",
+  "year": 2026,
+  "journal": "IEEE Transactions on Computational Imaging",
+  "title": "Constrained Conditional Denoising Diffusion for Hyperspectral-Multispectral Fusion",
+  "volume": "12",
+  "pages": "102-113",
+  "authors": "Fowler, James E."
+ },
+ {
+  "doi": "10.1109/tci.2026.3677782",
+  "year": 2026,
+  "journal": "IEEE Transactions on Computational Imaging",
+  "title": "Unfolding Degradation-Aware Transformer for Low-Light Hyperspectral Image Super-Resolution",
+  "volume": "",
+  "pages": "1-15",
+  "authors": "Fang, Yuan; Liu, Yipeng; Long, Zhen; Chi, Chong-Yung; Zhu, Ce"
+ },
+ {
+  "doi": "10.1109/tce.2026.3700977",
+  "year": 2026,
+  "journal": "IEEE Transactions on Consumer Electronics",
+  "title": "Edge-Aware Fusion Network for Accurate Hyperspectral Image Classification",
+  "volume": "",
+  "pages": "1-1",
+  "authors": "Chen, Tao; Ye, Hongming; Chen, Huayue; Li, Xi; Zhou, Xiangbing; Deng, Wu"
+ },
+ {
+  "doi": "10.1109/tetci.2026.3654465",
+  "year": 2026,
+  "journal": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+  "title": "Multiwavelet Based Multibranch Skip Feature Fusion Network for Remote Sensing Image Super Resolution",
+  "volume": "10",
+  "pages": "1834-1848",
+  "authors": "J, Sudaroli Sandana; S, Deivalakshmi; Asari, Vijayan K."
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3674159",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "3SP-DUNet: An Interpretable Deep-Unfolded Network With Spatial–Spectral Sparse Priors for Hyperspectral Pansharpening",
+  "volume": "64",
+  "pages": "1-16",
+  "authors": "Yang, Yong; Liu, Xuan; Huang, Shuying; Wang, Xiaozheng; Lu, Jinlin"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3671284",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "<i>S</i>\n                    <sup>2</sup>\n                    -Differential Feature Awareness Network for Hyperspectral Image Fusion",
+  "volume": "64",
+  "pages": "1-10",
+  "authors": "Song, Qiya; Guo, Shuo; Yang, Tao; Sun, Bin; Dian, Renwei; Li, Shutao"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3683056",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "A Detail Injection-Based Fusion Framework for Hyperspectral, Multispectral, and Panchromatic Remote Sensing Images",
+  "volume": "64",
+  "pages": "1-14",
+  "authors": "Fang, Jian; Sun, He; Sun, Xu; Ni, Li; Gao, Lianru"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3713929",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "A Stagewise Spectral-Structural Coordinated Reconstruction Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "64",
+  "pages": "5521920-5521920",
+  "authors": "Liu, Ruiping; Li, Jie; Wang, Pan; Zhu, Chunyu"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3699589",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Adaptive Neural Operator for Arbitrary-Scale Asteroid Remote Sensing Image Super-Resolution With Unsupervised and Supervised Learning",
+  "volume": "64",
+  "pages": "5626417-5626417",
+  "authors": "Zhao, Huijia; Lu, Jie; Lu, Xiaoping; Di, Kaichang"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3699818",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Block Term Decomposition-Guided Frequency Mamba Modulation for Hyperspectral Image Fusion",
+  "volume": "64",
+  "pages": "5516414-5516414",
+  "authors": "Li, Yan; Fang, Chuangjie; Chen, Zhijie; Meng, Yiqun; Xu, Honghui; Wang, Hao; Liu, Yi-Peng"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3703367",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Causal Degradation-Guided Network With Spatial–Frequency Attention for Blind Hyperspectral Image Fusion",
+  "volume": "64",
+  "pages": "5517317-5517317",
+  "authors": "Liu, Jianjun; Cheng, Lian; Dong, Mengjie; Wu, Zebin; Xiao, Liang"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3662353",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Center-Pixel Guided Dual-Path Multihead Attention Fusion Transformer for Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "1-18",
+  "authors": "Jiang, Haobo; Gao, Qiankun; Chen, Haobing; Zhou, Bin"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3672273",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Context-Reinforced Random-Field Ensembles for Arbitrary-Resolution Hyperspectral Pansharpening",
+  "volume": "64",
+  "pages": "1-16",
+  "authors": "He, Lin; Xiao, Huaikun; Li, Jun; Plaza, Antonio"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3686949",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Cross-Modal Fusion and Classification of Hyperspectral and Panchromatic Remote Sensing Images With Deep Learning and Multiscale CRFs",
+  "volume": "64",
+  "pages": "1-18",
+  "authors": "Pastorino, Martina; Moser, Gabriele; Serpico, Sebastiano B.; Zerubia, Josiane"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3670605",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Cross-Modality Spatial–Spectral Fusion Transformer With Spectral Amplification for VHR Image Classification",
+  "volume": "64",
+  "pages": "1-14",
+  "authors": "Li, Guangfei; Gao, Quanxue; Yang, Ming; Gao, Xinbo"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3665206",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Cross-SPECL: Cross-Scene Hyperspectral Image Classification via Spectral Stability Exploiting and Causal Learning",
+  "volume": "64",
+  "pages": "1-15",
+  "authors": "Chen, Xi; Zhang, Maojun; Liu, Yuxiang; Chen, Chen; Yan, Shen"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3677462",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Cross-Scene Diffusion-Enhanced Uncertainty Attention Network for Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "1-15",
+  "authors": "Wang, Chenglong; Guo, Yi; Ye, Minchao; Xiong, Fengchao"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3678075",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "DBNSR: Hyperspectral Image Super-Resolution Based on Dual-Branch Network",
+  "volume": "64",
+  "pages": "1-18",
+  "authors": "Huang, Kewen; Xu, Yiping; Dong, Yichun; Li, Ke; Wang, Hu; Tian, Yan"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3656069",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Diffusion-Driven Mutual Enhancement of Matching and Fusion for Reference-Based Hyperspectral Image Super-Resolution",
+  "volume": "64",
+  "pages": "1-13",
+  "authors": "He, Jie; Qu, Jiahui; Zhang, Xiaohan; Dong, Wenqian; Li, Yunsong"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3665830",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Dynamic Recurrent Self-Refinement Network for Hyperspectral Remote Sensing Image Super-Resolution",
+  "volume": "64",
+  "pages": "1-15",
+  "authors": "Li, Haifeng; Shi, Jingang; Chu, Shuyang; Zong, Yuan; Cheng, Xu; Xu, Jian; Gong, Yihong"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3654155",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Enhancing Leaf Nitrogen Estimation From Satellite Multispectral Imagery via Hyperspectral Super-Resolution and Structural Correction",
+  "volume": "64",
+  "pages": "1-15",
+  "authors": "Wang, Tinghan; Shi, Liangsheng; Su, Chenye"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3709513",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "FMSE-DGAF: Frequency-Modulated Spectral Enhancement and Dynamic Global–Local Attention Fusion Network for Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "5520119-5520119",
+  "authors": "Hu, Kun; Wan, Xiaoqing; Liu, Hui"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3696408",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "FS-CrossMamba: Dual-Branch Frequency-Guided Spatial and Spectral-Attention-Driven Spectral Cross-Mamba Network for Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "5514819-5514819",
+  "authors": "Zhang, Tianxiang; Zhang, Gongcai; Jia, Wenxin; Zeng, Yuxin; Hou, Mengting; Li, Jiangyun"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3716019",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "GSFL: Graph-Based Spatial–Frequency Learning for Multispectral and Hyperspectral Image Fusion",
+  "volume": "",
+  "pages": "1-1",
+  "authors": "Chen, Wei; Hu, Maoqing; Yang, Bin; Jiang, Chao; Zhang, Xiaozhi; Wang, Guofu"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3694409",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "HDGMamba: High-Frequency Dynamic Guided Mamba for Robust Multispectral-Hyperspectral Image Fusion",
+  "volume": "64",
+  "pages": "5514016-5514016",
+  "authors": "Huang, Jiangtao; Luo, Ting; He, Zhouyan; Xu, Haiyong; Song, Yang; Fang, Leyuan"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3663429",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "HGTFN: A Hypergraph and Transformer Fusion Network for Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "1-19",
+  "authors": "Zhao, Xiaofeng; Ma, Junyi; Wang, Lei; Shi, Jiayi; Zhang, Zhili; Gu, Hongyang; Feng, Jie; Ding, Yao"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3664848",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "HPGC-Diff: Hybrid-Prior Guided Coupled Diffusion for Unsupervised Hyperspectral Image Super-Resolution",
+  "volume": "64",
+  "pages": "1-14",
+  "authors": "Shao, Sheng; Xu, Yang; Sun, Le; Wang, Enbo; Wei, Zhihui; Wu, Zebin"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3706531",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "HSCovMamba: CNN–Mamba Gated-Fusion Network for Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "5519114-5519114",
+  "authors": "Li, Chunxiao; Geng, Xueli; Shi, Jia; Zhang, Ming; Song, Liwei; Zhang, Yuanyuan"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3703738",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Hierarchical Progressive Transform With Learnable Prior for Hyperspectral Image Super-Resolution",
+  "volume": "64",
+  "pages": "5520419-5520419",
+  "authors": "Tu, Zhihui; Gao, Yisha; Hu, Wenyu; Chen, Yong; Xu, Honghui; Lu, Jian"
+ },
+ {
+  "doi": "10.1109/tgrs.2025.3650350",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "HyPyraMamba: A Pyramid Spectral Attention and Mamba-Based Architecture for Robust Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "1-16",
+  "authors": "Li, Dekai; Bhatti, Uzair Aslam; Huang, Mengxing; Bruzzone, Lorenzo; Li, Jiaxin"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3697926",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Hyperspectral and Multispectral Image Fusion via Coupled Tensor Wheel Decomposition",
+  "volume": "64",
+  "pages": "5515114-5515114",
+  "authors": "Xu, Ting; Xiao, Jin-Liang; Fan, Ya-Ru; Liu, Liu; Deng, Liang-Jian"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3710374",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Iformer: Irregular Spatial–Spectral Transformer for Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "5521012-5521012",
+  "authors": "Ahmad, Muhammad; Mazzara, Manuel"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3689503",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Joint Low-Rank and Smooth Tensor Regularization for Multispectral and Hyperspectral Image Fusion",
+  "volume": "64",
+  "pages": "5512813-5512813",
+  "authors": "Li, Fan; Zeng, Zhaozhao; Liang, Yuyun; Tang, Mengxiong; Zhang, Shaoquan; Hu, Hesong; Li, Jun"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3651679",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Language-Informed Hyperspectral Image Synthesis for Imbalanced-Small Sample Classification via Semi-Supervised Conditional Diffusion Model",
+  "volume": "64",
+  "pages": "1-21",
+  "authors": "Zhu, Yimin; Xu, Lincoln Linlin"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3700020",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Learning Low-Rank Spectral Gradient Subspace With Structure Tensor Model for Guaranteed Hyperspectral Image Destriping and Denoising",
+  "volume": "64",
+  "pages": "5516817-5516817",
+  "authors": "Liu, Pengfei; Du, Yihang; Zheng, Zhizhong; Xiao, Liang"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3659928",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Leveraging Modal Interaction and Window Dilation in Attention Network for Hyperspectral and Multispectral Remote Sensing Image Fusion",
+  "volume": "64",
+  "pages": "1-15",
+  "authors": "Huo, Xuanfu; Gan, Hongping"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3708339",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Local–Global Progressive Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "64",
+  "pages": "5520616-5520616",
+  "authors": "Zhang, Shuyu; Cai, Yixun; He, Wangquan; Jia, Sen"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3703141",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Low-Rank Representation Learning With Spectral-to-Spatial Aggregation Transformer for Hyperspectral Image Super-Resolution",
+  "volume": "64",
+  "pages": "5626715-5626715",
+  "authors": "Wang, Shibo; Guo, Zhichang; Li, Qiting; Li, Yao; Xing, Yuming"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3651549",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Low-Rank Spectral–Spatial Super-Resolution of Hyperspectral Images Using KAN-Based GAN",
+  "volume": "64",
+  "pages": "1-14",
+  "authors": "Ramteke, Ameya; Arun, Pattathal V.; Srivastava, Vandita; Buddhiraju, Krishna Mohan"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3686851",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "MCF-SSGN: A Multiscale Spectral–Spatial Graph Fusion Network for Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "5512315-5512315",
+  "authors": "Wang, Lei; Zhang, Zhili; Ma, Junyi; Ding, Yao; Gan, Yuanying; Liang, Lianhui; Feng, Jie"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3676080",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Mamba-MPSE: Multipattern State Evolution Based on the Mamba Model for Intraclass Heterogeneous Wetland Classification With UAV Hyperspectral Imagery",
+  "volume": "64",
+  "pages": "1-19",
+  "authors": "Zhao, Song; Liu, Qiaoyu; Liu, Zhaoyu; Chen, Yu; Li, Wei; Wang, Junjie"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3715225",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "MosyMamba: Modal-Synergy Mamba Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "64",
+  "pages": "5522111-5522111",
+  "authors": "Zhang, Mingjin; Yang, Zhongkai; Guo, Jie; Li, Yunsong"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3694374",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Multiscale Spectral–Spatial Coordinated Awareness Fusion Network for Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "5513822-5513822",
+  "authors": "Pan, Haizhu; Yao, Ruyi; Ren, Bopeng; Ge, Haimiao; Shi, Cuiping; Liu, Xiaoqian"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3691537",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "PSFD-Net: Progressive Supervision-Based Frequency-Domain Decoupling Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "64",
+  "pages": "5513315-5513315",
+  "authors": "Mou, Yan; Yuan, Genji; Song, Jintao; Li, Jinjiang"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3680287",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Region-Aware MoE Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "64",
+  "pages": "1-15",
+  "authors": "Xiao, Nan; Fu, Xiyou; Ren, Qi; He, Wangquan; Wei, Siqi; Jia, Sen"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3663011",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "S2CIFTNet: Spatial–Spectral Coupling and Interactive Fusion Transformer Network for Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "1-18",
+  "authors": "Yang, Haixu; Cheng, Shuli; Du, Anyu; Zhang, Jun"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3703468",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "SAMamba: State Attention Mamba for Hyperspectral Image Classification",
+  "volume": "64",
+  "pages": "5518021-5518021",
+  "authors": "Ye, Shuyu; Tu, Bing; Liu, Bo; He, Yan; Liang, Lianhui; Wang, Peng; Li, Jun"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3712501",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "SCALMU: Synthetically Trained Coupling of Adaptive Learned Multiplicative Updates for Hyperspectral–Multispectral Fusion",
+  "volume": "64",
+  "pages": "5521114-5521114",
+  "authors": "Xu, Xinxin; Gousseau, Yann; Kervazo, Christophe; Ladjal, Said"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3651526",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "SDG-DSB: Spectral Degradation Guided Diffusion Schrödinger Bridge for Hyperspectral Images Super-Resolution",
+  "volume": "64",
+  "pages": "1-14",
+  "authors": "Xu, Yang; Zhu, Jian; Sun, Le; Wei, Zhihui; Wu, Zebin"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3653545",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "SEMF-Net: A Spatial–Spectral Edge-Enhancement-Based Multistage Fusion Network for Hyperspectral and Multispectral Image Fusion",
+  "volume": "64",
+  "pages": "1-16",
+  "authors": "Liu, Siyuan; Zhang, Zezheng; Yue, Huanru; Hu, Qi; Li, Bing; Zhang, Yudong; Liu, Shuaiqi"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3688486",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Spectrally–Spatially Coupled Dynamic Reduction for Efficient Hyperspectral Image Super-Resolution",
+  "volume": "64",
+  "pages": "5512615-5512615",
+  "authors": "Zheng, Lingyu; Xia, Jingyuan; Yang, Zhixiong; Wu, Chen; Li, Shengxi; Deng, Xin; Xu, Mai"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3687252",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "TM-MOE: A Degradation-Aware Transformer-Mamba MoE for Hyperspectral and Multispectral Image Fusion",
+  "volume": "64",
+  "pages": "5511816-5511816",
+  "authors": "Khader, Abdolraheem; Fu, Guanyiman; Zhang, Jue; Yang, Jingxiang; Lu, Jianfeng; Xiao, Liang"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3718050",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Unsupervised Deformable Bilinear Fusion Network for Unregistered Hyperspectral Image Super-resolution",
+  "volume": "",
+  "pages": "1-1",
+  "authors": "Zhu, Hao; Zou, Kehanling; Zou, Yunkai; Liu, Yongxu; Wu, Jinjian"
+ },
+ {
+  "doi": "10.1109/tgrs.2026.3693935",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Visual Differential-Spatially Projected Transformer for Efficient Hyperspectral Images Super-Resolution",
+  "volume": "64",
+  "pages": "5516913-5516913",
+  "authors": "Wang, Binfeng; Zhang, Tao; Fu, Ying"
+ },
+ {
+  "doi": "10.1109/tgrs.2025.3650662",
+  "year": 2026,
+  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+  "title": "Wavelet-Enhanced Spatial–Spectral Prior Injection Mamba Network for Hyperspectral Image Super-Resolution",
+  "volume": "64",
+  "pages": "1-17",
+  "authors": "Miao, Guohua; Xie, Zhihua; Yang, Fan"
+ },
+ {
+  "doi": "10.1109/tip.2026.3696124",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Bayesian Fully-Connected Tensor Network for Hyperspectral-Multispectral Image Fusion",
+  "volume": "35",
+  "pages": "5910-5925",
+  "authors": "Shan, Linsong; Yang, Zecan; Yang, Laurence T.; Li, Changlong; Zhao, Honglu; Nie, Xin"
+ },
+ {
+  "doi": "10.1109/tip.2026.3714832",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Blur-Resistant Hyperspectral Image Super-Resolution via Dual-Degradation Fusion Model",
+  "volume": "",
+  "pages": "1-1",
+  "authors": "Xu, Mai; Dou, Yongxuan; Deng, Xin; Zou, Xin; Shi, Zhenwei"
+ },
+ {
+  "doi": "10.1109/tip.2025.3636789",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Content-Adaptive Unfolding Wavelet Transformer for Hyperspectral Image Super-Resolution",
+  "volume": "35",
+  "pages": "1923-1936",
+  "authors": "Fang, Yuan; Liu, Yipeng; Long, Zhen; Chi, Chong-Yung; Zhu, Ce"
+ },
+ {
+  "doi": "10.1109/tip.2025.3647207",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Coupled Diffusion Posterior Sampling for Unsupervised Hyperspectral and Multispectral Images Fusion",
+  "volume": "35",
+  "pages": "69-84",
+  "authors": "Xu, Yang; Zhu, Jian; Hong, Danfeng; Wei, Zhihui; Wu, Zebin"
+ },
+ {
+  "doi": "10.1109/tip.2026.3657209",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Domain-Adaptive Mamba for Cross-Scene Hyperspectral Image Classification",
+  "volume": "35",
+  "pages": "1206-1217",
+  "authors": "Duan, Puhong; Jin, Shiyu; Lu, Xiaotian; Liang, Lianhui; Kang, Xudong; Plaza, Antonio"
+ },
+ {
+  "doi": "10.1109/tip.2026.3657219",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Equivariant High-Resolution Hyperspectral Imaging via Mosaiced and PAN Image Fusion",
+  "volume": "35",
+  "pages": "1246-1260",
+  "authors": "Wang, Nan; Guo, Anjing; Dian, Renwei; Li, Shutao"
+ },
+ {
+  "doi": "10.1109/tip.2026.3662596",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Interactive Spatial-Frequency Fusion Mamba for Multi-Modal Image Fusion",
+  "volume": "35",
+  "pages": "2380-2392",
+  "authors": "Zhu, Yixin; Lv, Long; Zhang, Pingping; Liu, Xuehu; Tang, Tongdan; Tian, Feng; Sun, Weibing; Lu, Huchuan"
+ },
+ {
+  "doi": "10.1109/tip.2026.3658212",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "MambaFedCD: Spatial–Spectral–Temporal Collaborative Mamba-Based Active Federated Hyperspectral Change Detection",
+  "volume": "35",
+  "pages": "1478-1492",
+  "authors": "Qu, Jiahui; Zhao, Jingyu; Dong, Wenqian; Zhang, Lijian; Li, Yunsong"
+ },
+ {
+  "doi": "10.1109/tip.2025.3648926",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Masked Self-Attention Fusion Network for Joint Classification of Hyperspectral and LiDAR Data",
+  "volume": "35",
+  "pages": "346-360",
+  "authors": "Shi, Lulu; Li, Chunchao; Zeng, Zhengchao; Duan, Puhong; Rasti, Behnood; Plaza, Antonio"
+ },
+ {
+  "doi": "10.1109/tip.2026.3714851",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Multi-View Single-Scan Visual State-Space Network for Efficient Image Super-Resolution",
+  "volume": "35",
+  "pages": "8021-8033",
+  "authors": "Yang, Hong; Liu, Weihua; Yang, Xianqiang"
+ },
+ {
+  "doi": "10.1109/tip.2026.3715847",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Multi-scale Meets Active Learning: A Deep Graph Fusion Paradigm for Hyperspectral Image Classification",
+  "volume": "",
+  "pages": "1-1",
+  "authors": "Yu, Long; Li, Jun; Plaza, Antonio; Zhuo, Li"
+ },
+ {
+  "doi": "10.1109/tip.2026.3695389",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Self-Expressive High-Order Tensor Unrolling Network for Unsupervised Hyperspectral and Multispectral Image Fusion",
+  "volume": "35",
+  "pages": "5714-5729",
+  "authors": "Wang, He; Xu, Yang; Wei, Zhihui; Wu, Zebin"
+ },
+ {
+  "doi": "10.1109/tip.2026.3700929",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Spectral State Fusion Tree Mamba for Hyperspectral Image Classification",
+  "volume": "35",
+  "pages": "6385-6400",
+  "authors": "Tu, Bing; Hu, Zhenghao; Liu, Bo; He, Yan"
+ },
+ {
+  "doi": "10.1109/tip.2026.3689415",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "Uncertainty-Driven Generative Prior Learning for Sparse Model-Guided Hyperspectral Image Fusion",
+  "volume": "35",
+  "pages": "5224-5238",
+  "authors": "Xu, Junwei; Feng, Teng; Fang, Zhenxuan; Wu, Fangfang; Dong, Le; Huang, Tao; Yang, Zhou; Dong, Weisheng; Li, Xin"
+ },
+ {
+  "doi": "10.1109/tip.2026.3691019",
+  "year": 2026,
+  "journal": "IEEE Transactions on Image Processing",
+  "title": "WAS-Mamba: 3D Medical Image Segmentation via Windowed Attention State Space Model",
+  "volume": "35",
+  "pages": "8152-8166",
+  "authors": "Zhang, Xueren; Wang, Xianghong; Tong, Nuo; Jin, Peng; Du, Jichen; Ding, Mingchao; Yu, Lequan; Yuan, Yixuan; Niu, Tianye"
+ },
+ {
+  "doi": "10.1109/tmm.2022.3216115",
+  "year": 2026,
+  "journal": "IEEE Transactions on Multimedia",
+  "title": "Bridging Component Learning With Degradation Modelling for Blind Image Super-Resolution",
+  "volume": "28",
+  "pages": "3023-3037",
+  "authors": "Wu, Yixuan; Li, Feng; Bai, Huihui; Lin, Weisi; Cong, Runmin; Zhao, Yao"
+ },
+ {
+  "doi": "10.1109/tmm.2025.3639955",
+  "year": 2026,
+  "journal": "IEEE Transactions on Multimedia",
+  "title": "D3BSR: Blind Super-Resolution via Diffusion-Based Disentangled Degradation Representation",
+  "volume": "28",
+  "pages": "1639-1653",
+  "authors": "Yu, Wei; Liu, Qinglin; Meng, Quanling; Wang, Chenyang; Sun, Xin"
+ },
+ {
+  "doi": "10.1109/tmm.2026.3660114",
+  "year": 2026,
+  "journal": "IEEE Transactions on Multimedia",
+  "title": "Efficient Low Average Rank Tensor Recovery With Implicit Low-Rank Subspace Regularization",
+  "volume": "",
+  "pages": "1-15",
+  "authors": "Wu, Tongle; Gao, Bin; Zhang, Yanni; Xue, Jize; Yu, Yueyao; Woo, W.L."
+ },
+ {
+  "doi": "10.1109/tmm.2025.3632632",
+  "year": 2026,
+  "journal": "IEEE Transactions on Multimedia",
+  "title": "Fusion-Driven Task Mutual-Guidance Network for Few-Shot Hyperspectral Image Classification",
+  "volume": "28",
+  "pages": "1211-1225",
+  "authors": "Zhu, Yusen; Qu, Jiahui; Dong, Wenqian; Li, Yunsong"
+ },
+ {
+  "doi": "10.1109/tmm.2026.3660130",
+  "year": 2026,
+  "journal": "IEEE Transactions on Multimedia",
+  "title": "HCFMaNet: A Novel Holistic Cross-Modal Fusion Mamba Network for Multi-Modal Medical Image Fusion",
+  "volume": "28",
+  "pages": "4547-4561",
+  "authors": "Wei, Xinjian; Qiu, Yu; Xu, Jing; Zhang, Jun"
+ },
+ {
+  "doi": "10.1109/tmm.2026.3668557",
+  "year": 2026,
+  "journal": "IEEE Transactions on Multimedia",
+  "title": "Hyperspectral Image Super-Resolution via Boundary Perception and Topology Inference",
+  "volume": "28",
+  "pages": "6337-6351",
+  "authors": "Wang, Heng; Wang, Cong; Yuan, Yuan"
+ },
+ {
+  "doi": "10.1109/tmm.2026.3668511",
+  "year": 2026,
+  "journal": "IEEE Transactions on Multimedia",
+  "title": "MSF-Mamba: Motion-Aware State Fusion Mamba for Efficient Micro-Gesture Recognition",
+  "volume": "28",
+  "pages": "5912-5923",
+  "authors": "Li, Deng; Shao, Jun; Xing, Bohao; Gao, Rong; Wen, Bihan; Kälviäinen, Heikki; Liu, Xin"
+ },
+ {
+  "doi": "10.1109/tmm.2026.3651084",
+  "year": 2026,
+  "journal": "IEEE Transactions on Multimedia",
+  "title": "Rethinking the Upsampling Layer in Hyperspectral Image Super Resolution",
+  "volume": "28",
+  "pages": "2824-2836",
+  "authors": "Shi, Haohan; Zhou, Fei; Sun, Xin; Han, Jungong"
+ },
+ {
+  "doi": "10.1109/tmm.2025.3632633",
+  "year": 2026,
+  "journal": "IEEE Transactions on Multimedia",
+  "title": "Tensor Wheel Completion With Low-Rank Factor Prior and Adaptive Graph Regularizer for Hyperspectral Image Recovery",
+  "volume": "28",
+  "pages": "1174-1187",
+  "authors": "Tian, Xin; Xie, Kun; Wen, Jigang; Feng, Quan"
+ },
+ {
+  "doi": "10.1109/tnnls.2026.3709066",
+  "year": 2026,
+  "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+  "title": "ASSR-Net: Anisotropic Structure-Aware and Spectrally Recalibrated Network for Hyperspectral Image Fusion",
+  "volume": "",
+  "pages": "1-12",
+  "authors": "Song, Qiya; Zhou, Hongzhi; Tan, Lishan; Dian, Renwei; Li, Shutao"
+ },
+ {
+  "doi": "10.1109/tnnls.2025.3631243",
+  "year": 2026,
+  "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+  "title": "Butterfly Residual Network: A Hybrid Approach With Spectral Transformers and Depth-Wise Convolutions for Hyperspectral Image Super-Resolution",
+  "volume": "37",
+  "pages": "2280-2293",
+  "authors": "Yang, Yuchao; Wang, Yulei; Xu, Xin; Zhao, Enyu"
+ },
+ {
+  "doi": "10.1109/tpami.2026.3681688",
+  "year": 2026,
+  "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "title": "Band-Kernel Stochastic Learning for Unsupervised Blind Hyperspectral Image Super-Resolution",
+  "volume": "48",
+  "pages": "9895-9913",
+  "authors": "Yang, Zhixiong; Xia, Jingyuan; Li, Shengxi; Zheng, Lingyu; Zhang, Shuanghui; Liu, Li; Fu, Yaowen; Liu, Yongxiang"
+ },
+ {
+  "doi": "10.1109/tpami.2025.3609323",
+  "year": 2026,
+  "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "title": "Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion",
+  "volume": "48",
+  "pages": "591-608",
+  "authors": "Tang, Linfeng; Li, Chunyu; Ma, Jiayi"
+ },
+ {
+  "doi": "10.1109/jas.2025.125213",
+  "year": 2026,
+  "journal": "IEEE/CAA Journal of Automatica Sinica",
+  "title": "Tensor Low-Rank Orthogonal Compression for Convolutional Neural Networks",
+  "volume": "13",
+  "pages": "227-229",
+  "authors": "He, Yaping; Luo, Xin"
+ },
+ {
+  "doi": "10.1109/jlt.2026.3658374",
+  "year": 2026,
+  "journal": "Journal of Lightwave Technology",
+  "title": "Unsupervised Super Spatial Resolution Brillouin Frequency Shift Extraction Based on Physical Enhanced Neural Network",
+  "volume": "44",
+  "pages": "3280-3290",
+  "authors": "Ge, Zhao; Wu, Hao; Zhao, Zhiyong; Zou, Xuan; Wei, Weilun; Tang, Ming"
+ }
+]
