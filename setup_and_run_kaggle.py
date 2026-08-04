@@ -4,8 +4,13 @@ import subprocess
 import json
 import sys
 
-# Force UTF-8 encoding for all Python file operations (fixes the charmap error in Kaggle CLI)
-os.environ["PYTHONUTF8"] = "1"
+# PYTHONUTF8 must be set BEFORE the Python interpreter starts to take effect.
+# If it wasn't set, re-launch this script with it in the environment.
+if os.environ.get("PYTHONUTF8") != "1":
+    env = os.environ.copy()
+    env["PYTHONUTF8"] = "1"
+    result = subprocess.run([sys.executable, __file__], env=env)
+    sys.exit(result.returncode)
 
 # ==========================================
 # 1. ORGANIZE DIRECTORY STRUCTURE
@@ -57,36 +62,34 @@ def organize_files():
 # ==========================================
 def configure_kaggle():
     print("\n--- Kaggle Configuration ---")
-    print("Your previous attempt returned '401 Unauthorized'. This means the username and API key didn't match.")
-    username = input("Enter your exact Kaggle username from your profile URL (try 'amarnath10' if 'amarnath10chinu' failed): ").strip()
     
-    # The user provided token KGAT_c8889ab9939df9618e59f3e13fcea8fa
-    token = "KGAT_c8889ab9939df9618e59f3e13fcea8fa"
+    # Prefer legacy kaggle.json (full API access)
+    kaggle_json = os.path.join(os.path.expanduser("~"), ".kaggle", "kaggle.json")
+    if os.path.exists(kaggle_json):
+        with open(kaggle_json, "r") as f:
+            creds = json.load(f)
+        username = creds["username"]
+        os.environ["KAGGLE_USERNAME"] = username
+        os.environ["KAGGLE_KEY"] = creds["key"]
+        print(f"✓ Kaggle authentication configured via kaggle.json (username: {username})")
+        return username
     
-    # Remove KGAT_ if present for traditional kaggle.json auth
-    key = token.replace("KGAT_", "")
+    # Fall back to KAGGLE_API_TOKEN env var
+    username = "amarnath10chinu"
+    token_full = os.environ.get("KAGGLE_API_TOKEN", "")
+    if not token_full:
+        print("✗ ERROR: No kaggle.json and no KAGGLE_API_TOKEN found.")
+        sys.exit(1)
     
-    kaggle_dir = os.path.expanduser("~/.kaggle")
-    os.makedirs(kaggle_dir, exist_ok=True)
+    if "_" in token_full:
+        token = token_full.split('_', 1)[1]
+    else:
+        token = token_full
     
-    creds = {
-        "username": username,
-        "key": key
-    }
-    
-    cred_file = os.path.join(kaggle_dir, "kaggle.json")
-    with open(cred_file, "w") as f:
-        json.dump(creds, f)
-    
-    if os.name != 'nt':
-        os.chmod(cred_file, 0o600)
-        
-    print(f"✓ Kaggle credentials saved to {cred_file}")
-    
-    # Some new Kaggle environments prefer environment variables instead of kaggle.json
     os.environ["KAGGLE_USERNAME"] = username
-    os.environ["KAGGLE_KEY"] = key
+    os.environ["KAGGLE_KEY"] = token
     
+    print(f"✓ Kaggle authentication configured (token: {token_full[:10]}...)")
     return username
 
 # ==========================================
@@ -95,9 +98,6 @@ def configure_kaggle():
 def push_notebooks(username):
     print("\n--- Pushing Notebooks to Kaggle ---")
     base_dir = r"d:\academic\project1"
-    
-    print("Installing Kaggle CLI if not present...")
-    subprocess.run(["pip", "install", "kaggle"], check=False)
     
     from kaggle.api.kaggle_api_extended import KaggleApi
     api = KaggleApi()
@@ -114,12 +114,12 @@ def push_notebooks(username):
         
     print(f"Found {len(notebooks)} notebooks to push.")
     
+    success_count = 0
+    fail_count = 0
+    
     for ndir, nfile in notebooks:
         print(f"\nProcessing {nfile}...")
         npath = os.path.join(ndir, nfile)
-        
-        with open(npath, "r", encoding="utf-8") as f:
-            nb_content = json.load(f)
             
         dataset_sources = []
         model_sources = []
@@ -152,8 +152,19 @@ def push_notebooks(username):
         elif "utal" in nfile.lower():
             model_sources.append("nikeshreddypatlolla/model-utal/frameworks/pytorch")
 
-        # Create kernel-metadata.json
+        # Create a clean slug from the filename
         slug = nfile.replace(".ipynb", "").replace(" ", "-").replace("(", "").replace(")", "").lower()
+        
+        # Use a temporary directory so the Kaggle API only sees ONE notebook
+        tmp_dir = os.path.join(base_dir, "_kaggle_tmp")
+        if os.path.exists(tmp_dir):
+            shutil.rmtree(tmp_dir)
+        os.makedirs(tmp_dir)
+        
+        # Copy the notebook into the temp dir
+        shutil.copy2(npath, os.path.join(tmp_dir, nfile))
+        
+        # Write kernel-metadata.json into the temp dir
         meta = {
             "id": f"{username}/{slug}",
             "title": slug,
@@ -169,21 +180,27 @@ def push_notebooks(username):
             "model_sources": model_sources
         }
         
-        meta_path = os.path.join(ndir, "kernel-metadata.json")
-        with open(meta_path, "w") as f:
+        meta_path = os.path.join(tmp_dir, "kernel-metadata.json")
+        with open(meta_path, "w", encoding="utf-8") as f:
             json.dump(meta, f, indent=2)
             
         # Push to Kaggle
         print(f"Pushing {slug} to Kaggle...")
         try:
-            api.kernels_push(ndir)
+            api.kernels_push(tmp_dir)
             print(f"✓ Successfully pushed {slug}")
+            success_count += 1
         except Exception as e:
             print(f"✗ Failed to push {slug}: {e}")
+            fail_count += 1
             
-        # Clean up metadata file
-        if os.path.exists(meta_path):
-            os.remove(meta_path)
+        # Clean up temp dir
+        shutil.rmtree(tmp_dir, ignore_errors=True)
+    
+    print(f"\n--- Summary ---")
+    print(f"✓ Succeeded: {success_count}")
+    print(f"✗ Failed:    {fail_count}")
+    print(f"Total:       {len(notebooks)}")
 
 if __name__ == "__main__":
     organize_files()

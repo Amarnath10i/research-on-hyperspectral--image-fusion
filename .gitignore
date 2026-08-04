@@ -39,3 +39,5 @@ papers/**/*.pdf
 
 # Kaggle
 .kaggle/
+
+kaggle_logs/
